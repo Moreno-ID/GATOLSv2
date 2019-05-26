@@ -23,7 +23,7 @@ echo "卐卐卐卐卐卐        卐
 卐        卐卐卐卐卐卐" |lolcat -a -d 10
 figlet -f slant "GATOLSv2" |lolcat -a -d 10
 echo "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" |lolcat -a -d 10
-echo "Name    : 3RR0R" |lolcat -a -d 10
+echo "Name    : Mr.MOC" |lolcat -a -d 10
 echo "Github  : Moreno-ID" |lolcat -a -d 10
 echo "Wa      : 085332814651" |lolcat -a -d 10
 echo "Fb      : Moreno ID" |lolcat -a -d 10
